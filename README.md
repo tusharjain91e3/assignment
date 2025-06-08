@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help, please:
-- 📧 Email: support@yourproject.com
+- 📧 Email: tusharjainmandoth@gmail.com
 - 💬 Create an issue on GitHub
 - 📝 Check the documentation
 
